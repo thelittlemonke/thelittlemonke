@@ -1,10 +1,11 @@
-hi i'm little monke
+hi!!! i am little monke
 =============================
 i code, sometimes
 
-### <span style="color:#2978e3">Info</span>
-*  I am based in tatarstan
--  I am learning C
-### <span style="color:#2978e3">Socials</span>
-- GitHub - [@thelittlemonke](https://github.com/thelittlemonke)
-- YouTube - [@thelittlemonke](https://www.youtube.com/@thelittlemonke) 
+### \<info\>
+-  i'm in Tatarstan <img src="https://github.com/user-attachments/assets/33bbb5c1-9676-40b5-b01b-368111654e3b" alt="uchpuchmak" width="24" align="center">
+-  i'm currently learning C
+
+### \<socials\>
+- github - [@thelittlemonke](https://github.com/thelittlemonke)
+- youtube - [@thelittlemonke](https://www.youtube.com/@thelittlemonke) 
